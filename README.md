@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nestoradev" target="blank"><img src="https://img.shields.io/twitter/follow/nestoradev?logo=twitter&style=for-the-badge" alt="nestoradev" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Project Management System - PMS using Java Spring Boot**
 
 - 🌱 I’m currently learning **Java Spring Boot REST API and React for frontend**
 
