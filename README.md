@@ -22,11 +22,12 @@ I specialize in **event-driven architectures**, **real-time data pipelines**, an
 
 ## 🌍 Tech & Tools I Use
 
-- **Languages**: Java, Python, SQL  
-- **Frameworks**: Spring Boot, Kafka Streams, Apache Flink  
+- **Languages**: Java, Python, Rust, Bash SQL  
+- **Frameworks**: Spring Boot, Flask, Axum, Kafka Streams, Apache Flink
+- - **Build Tools**: Maven, Gradle, Bazel  
 - **DevOps & Infrastructure**: Kubernetes, Docker, ArgoCD, Tekton, OpenShift, GitHub Actions  
-- **Databases**: PostgreSQL, MySQL, Trino  
-- **Cloud & Storage**: Minio, Linux, GitOps  
+- **Databases**: PostgreSQL, MySQL, AWS S3, MongoDB, Redis  
+- **Cloud Services**: Confluent, AWS, Openshift Kubernetes, Redhat Decision Manager 
 - **Others**: CI/CD, API-first design, Event-driven systems
 
 ---
