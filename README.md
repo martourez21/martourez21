@@ -36,7 +36,8 @@ I specialize in **event-driven architectures**, **real-time data pipelines**, an
 
 I'm passionate about:
 
-- **AI, machine learning, and data engineering**
+- **AI, machine learning, Event Driven Distributed Systems, Complex Event Processing and data engineering**
+- Building Real time Risk mitigation/prevention systems for Trading, Finance, Banking and Insurance Systems 
 - Exploring **emerging technologies**
 - Sharing knowledge through **meetups** and community events  
 - Solving **real-world problems** with elegant, production-ready code
