@@ -1,58 +1,53 @@
-# Hi there, I'm Nestor 👋
+# 👋 Hi, I'm **Nestor**
 
-🚀 **Software Engineer | Data & Stream Processing Engineer**  
-💡 Building Scalable Solutions for **Banking, Fintech, Insurance, Healthcare, Supply Chain & IoT**
+🚀 **Software Engineer · Distributed Systems & Real-Time Data**
+💡 Building scalable, fault-tolerant systems across **Fintech, Banking, Insurance, Healthcare, IoT & Supply Chain**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **solution-driven Software Engineer** with over **7 years** of experience architecting, building, and scaling **cloud-native** systems across diverse industries.
+I'm a **solutions-focused Software Engineer** with **7+ years** of experience designing and delivering **cloud-native**, **event-driven**, and **data-intensive** systems.
 
-🔧 My expertise spans:
+My work centers on:
 
-- **Distributed systems**
-- **Data-intensive applications**
-- **API design & system integration**
-- **Performance, scalability, and reliability**
+* ⚡ **Real-time stream processing**
+* 🧩 **Distributed systems & microservices**
+* 🔌 **API design & platform engineering**
+* 📈 **High-performance, scalable architectures**
 
-I specialize in **event-driven architectures**, **real-time data pipelines**, and **microservices** — leveraging tools like **Apache Kafka**, **Flink**, and **Kubernetes** to deliver robust and resilient systems.
-
----
-
-## 🌍 Tech & Tools I Use
-
-- **Languages**: Java, Python, Rust, Bash, SQL  
-- **Frameworks**: Spring Boot, Flask, Axum, Kafka Streams, Ksqldb, Apache Flink, Debezium, 
-- **Build Tools**: Maven, Gradle, Bazel  
-- **DevOps & Infrastructure**: Kubernetes, Docker, ArgoCD, Tekton, OpenShift, GitHub Actions  
-- **Databases**: PostgreSQL, MySQL, AWS S3, MongoDB, Redis  
-- **Cloud Services**: Confluent, AWS, Openshift Kubernetes, Redhat Decision Manager, ELK 
-- **Others**: CI/CD, API-first design, Event-driven systems, Jaeger, Zipkin
+I build systems that run reliably at scale — leveraging **Kafka, Flink, Kubernetes**, and modern cloud tooling.
 
 ---
 
-## 💡 Passion & Community
+## 🛠️ Tech Stack
 
-I'm passionate about:
-
-- **AI, machine learning, Event Driven & Distributed Systems, Complex Event Processing and data engineering**
-- Building Real time Risk mitigation/prevention systems for Trading, Finance, Banking and Insurance Systems 
-- Exploring **emerging technologies**
-- Sharing knowledge through **meetups** and community events  
-- Solving **real-world problems** with elegant, production-ready code
-
-I **organize and participate** in technical meetups — online and in-person — to foster learning communities around **system design**, **streaming systems**, and **big data engineering**.
+**Languages:** Java · Python · Rust · Bash · SQL
+**Frameworks / Engines:** Spring Boot · Kafka Streams · ksqlDB · Apache Flink · Debezium · Axum · Flask
+**Build Tools:** Maven · Gradle · Bazel
+**DevOps / Infra:** Kubernetes · Docker · ArgoCD · Tekton · OpenShift · GitHub Actions
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis · AWS S3
+**Cloud & Platforms:** Confluent Cloud · AWS · OpenShift · Red Hat Decision Manager
+**Other:** Event-driven design · CI/CD · Observability (Jaeger, Zipkin)
 
 ---
 
-## 🌍 Let's Connect
+## 💡 What I’m Passionate About
 
-📫 **Email**: [nestorabiawuh@gmail.com](mailto:nestorabiawuh@gmail.com)  
-🔗 **LinkedIn**: [Nestor Abiangang A.](https://www.linkedin.com/in/nestor-abiangang/)
-
-I'm open to **global opportunities** — local, **remote**, or **relocation** — and always excited to collaborate on impactful, forward-thinking projects.
-
-> Let’s connect and build something extraordinary.
+* Real-time risk mitigation & fraud-detection systems
+* Distributed systems & event-driven architectures
+* High-throughput, ultra-low-latency pipelines
+* Complex event processing & data engineering
+* Exploring new technologies and contributing to OSS
+* Sharing knowledge through **meetups, workshops, and community events**
 
 ---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** [nestorabiawuh@gmail.com](mailto:nestorabiawuh@gmail.com)
+🔗 **LinkedIn:** [Nestor Abiangang A.](https://www.linkedin.com/in/nestor-abiangang/)
+
+I'm open to **global roles** — onsite, hybrid, remote, or relocation — and always happy to collaborate on impactful projects.
+
+> **Let’s build reliable, scalable systems that create real value.**
