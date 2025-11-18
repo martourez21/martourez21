@@ -22,13 +22,13 @@ I specialize in **event-driven architectures**, **real-time data pipelines**, an
 
 ## 🌍 Tech & Tools I Use
 
-- **Languages**: Java, Python, Rust, Bash SQL  
-- **Frameworks**: Spring Boot, Flask, Axum, Kafka Streams, Apache Flink
-- - **Build Tools**: Maven, Gradle, Bazel  
+- **Languages**: Java, Python, Rust, Bash, SQL  
+- **Frameworks**: Spring Boot, Flask, Axum, Kafka Streams, Ksqldb, Apache Flink, Debezium, 
+- **Build Tools**: Maven, Gradle, Bazel  
 - **DevOps & Infrastructure**: Kubernetes, Docker, ArgoCD, Tekton, OpenShift, GitHub Actions  
 - **Databases**: PostgreSQL, MySQL, AWS S3, MongoDB, Redis  
-- **Cloud Services**: Confluent, AWS, Openshift Kubernetes, Redhat Decision Manager 
-- **Others**: CI/CD, API-first design, Event-driven systems
+- **Cloud Services**: Confluent, AWS, Openshift Kubernetes, Redhat Decision Manager, ELK 
+- **Others**: CI/CD, API-first design, Event-driven systems, Jaeger, Zipkin
 
 ---
 
@@ -36,7 +36,7 @@ I specialize in **event-driven architectures**, **real-time data pipelines**, an
 
 I'm passionate about:
 
-- **AI, machine learning, Event Driven Distributed Systems, Complex Event Processing and data engineering**
+- **AI, machine learning, Event Driven & Distributed Systems, Complex Event Processing and data engineering**
 - Building Real time Risk mitigation/prevention systems for Trading, Finance, Banking and Insurance Systems 
 - Exploring **emerging technologies**
 - Sharing knowledge through **meetups** and community events  
