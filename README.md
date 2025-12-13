@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Nestor**
 
 **Software Engineer · Distributed Systems & Real-Time Data**
-💡 Building scalable, fault-tolerant systems across **Fintech, Banking, Insurance, Healthcare, IoT & Supply Chain**
+**Building scalable, fault-tolerant systems across** **Fintech, Banking, Insurance, Healthcare, IoT & Supply Chain**
 
 ---
 
